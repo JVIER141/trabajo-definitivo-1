@@ -1,0 +1,8 @@
+.contenedor1{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+.contenedor2{
+    height: 40vw;
+}
